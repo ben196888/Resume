@@ -7,7 +7,7 @@ linkedin: "https://linkedin.com/in/ben-liu"
 ---
 
 ## Summary
-A Senior Software Engineer with 10+ years of experience specializing in JavaScript ecosystems like ReactJS, NextJS, and JS runtimes. Passionate about open-source projects, with proven skills in designing scalable solutions, process automation, and SEO optimization using tools like ChatGPT, SSG, and SSR. Fluent in Mandarin and English, with expertise across multiple languages. Currently exploring opportunities in engineering management to lead teams in delivering impactful projects.
+A Senior Software Engineer with 10+ years of experience specializing in JavaScript ecosystems like ReactJS, NextJS, and JS runtimes. Passionate about open-source projects, with proven skills in designing scalable solutions, process automation, and SEO optimization using tools like ChatGPT, SSG, and SSR. Fluent in Mandarin and English, with expertise across multiple languages.
 
 ## Work Experience
 
